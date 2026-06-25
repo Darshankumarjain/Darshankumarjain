@@ -3,9 +3,9 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darshankumarjain&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 ---
 
@@ -17,7 +17,7 @@
 - 📫 Reach me at **darshankumarjain1@gmail.com**
 - 👨‍💻 All projects at **[darshankumarjain.netlify.app](https://darshankumarjain.netlify.app/)**
 - 📄 My resume **[View Here](https://drive.google.com/file/d/13MLgwxqyID3q1yj2p9XqEf9z1oa0yobh/view?usp=drive_link)**
-- ⚡ Fun fact **I trained an AI to think — now it questions my code more than I do 🤖**
+
 
 ---
 
