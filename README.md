@@ -16,7 +16,7 @@
 - 💬 Ask me about **React, Python, JS, GPT APIs, and why I chose tech over sleep**
 - 📫 Reach me at **darshankumarjain1@gmail.com**
 - 👨‍💻 All projects at **[darshankumarjain.netlify.app](https://darshankumarjain.netlify.app/)**
-- 📄 My resume **[View Here](https://drive.google.com/file/d/13MLgwxqyID3q1yj2p9XqEf9z1oa0yobh/view?usp=drive_link)**
+- 📄 My resume **[View Here](https://drive.google.com/file/d/1ZFKAWyZrc48d0JEY1VJPivo_ntNI-evX/view?usp=drive_link)**
 
 
 ---
